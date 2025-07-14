@@ -42,6 +42,7 @@ cache.Get("a");
 cache.Add("c", 3); // "b" will be evicted
 
 Console.WriteLine(cache.ContainsKey("b")); // false
+```
 
 ---
 
