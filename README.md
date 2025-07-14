@@ -50,3 +50,11 @@ Console.WriteLine(cache.ContainsKey("b")); // false
 
 Feel free to open an issue or submit a pull request if you find something to improve.
 
+---
+
+## Development Time
+
+Total time spent: **~3 hours**
+
+This includes design, implementation, writing unit tests, documentation, and Git setup.
+
