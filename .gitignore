@@ -1,0 +1,38 @@
+# Build output folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio workspace folder
+.vs/
+
+# Rider IDE
+.idea/
+
+# VS Code settings folder
+.vscode/
+
+# NUnit test result files
+TestResult.xml
+TestResults/
+
+# NuGet packages folder (optional if you want to keep packages restored locally)
+packages/
+
+# Backup and temp files
+*.bak
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Ignore coverage reports if generated
+*.coverage
+*.coveragexml
+
+# Ignore Resharper files if any
+_ReSharper*/

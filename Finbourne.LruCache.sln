@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LruCacheLib", "LruCache\LruCacheLib.csproj", "{1B819B03-EF3D-48FA-890A-5A714003C159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LruCache.Tests", "LruCache.Tests\LruCache.Tests.csproj", "{58569F48-4479-464F-A2F5-0B93E1EC9336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B819B03-EF3D-48FA-890A-5A714003C159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B819B03-EF3D-48FA-890A-5A714003C159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B819B03-EF3D-48FA-890A-5A714003C159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B819B03-EF3D-48FA-890A-5A714003C159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58569F48-4479-464F-A2F5-0B93E1EC9336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58569F48-4479-464F-A2F5-0B93E1EC9336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58569F48-4479-464F-A2F5-0B93E1EC9336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58569F48-4479-464F-A2F5-0B93E1EC9336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE039B97-2177-484A-96B5-D1E7712853D5}
+	EndGlobalSection
+EndGlobal
