@@ -26,7 +26,7 @@ This cache keeps a fixed number of items, and when it’s full, it automatically
 ### Clone and Build
 
 bash
-git clone https://github.com/yourusername/ThreadSafeLruCache.git
+git clone https://github.com/sdf1444/ThreadSafeLruCache.git
 cd ThreadSafeLruCache
 dotnet build
 
